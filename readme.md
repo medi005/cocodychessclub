@@ -1,0 +1,1 @@
+C'est une site web pour le Club d'échecs Cocody Chess Club situé en Côte d'Ivoire à Abidjan.
